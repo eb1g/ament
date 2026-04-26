@@ -1,0 +1,4 @@
+discord.py
+captcha
+requests
+beautifulsoup4
